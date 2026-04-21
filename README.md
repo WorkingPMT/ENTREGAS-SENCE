@@ -2,10 +2,4 @@
 
 
 
-
-##SE AÑADE ESTILOS PARA MAYOR ESTILO
-
-
-### SE AÑADE BOOSTRAP Y MODELO RESPONSIVE
-
-##SE AÑADE JS PARA VERIFICAR DATOS EN CONSOLA DE NAVEGADOR
+-----------------------------------------------------SE DEJARAN ENTREGAS, PROYECTOS Y ACTIVIDADES EN ESTA UNIDAD------------------------------------------------------
